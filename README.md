@@ -3,7 +3,7 @@
 
 
 - ### My Personal Blog Website.
-    - https://web-production-1f17.up.railway.app/
+    - amador-blog.up.railway.app
     - An End-to-End application, managed from development through deployment to production.
 
 - ### Functionality
